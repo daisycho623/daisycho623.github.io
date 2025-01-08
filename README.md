@@ -1,4 +1,4 @@
-daisycho06.github.io
+daisycho623.github.io
 ====================
 
 ## About
@@ -6,4 +6,4 @@ daisycho06.github.io
 This is my personal web implementation portfolio.
 Any of you interested in seeing it, please visit:
 
-https://daisycho06.github.io/
+https://daisycho623.github.io/
